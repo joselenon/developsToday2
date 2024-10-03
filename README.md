@@ -1,4 +1,4 @@
 Server / Client
 
 npm i
-rpm run dev
+npm run dev
